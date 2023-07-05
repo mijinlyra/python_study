@@ -1,0 +1,5 @@
+name : Mijin 
+city : Seoul
+age : 25
+sex : Female
+height : 164cm
