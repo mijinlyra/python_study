@@ -1,1 +1,1 @@
-# python_study
+# practice Python
